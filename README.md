@@ -6,6 +6,7 @@ MODEL:
 ![Soil](https://github.com/Maniprabha06/AgroNet/assets/108254371/ffccc85e-7a7b-43eb-b780-90293451e1e6)
 ![Wi-Fi module](https://github.com/Maniprabha06/AgroNet/assets/108254371/690b8fe3-c43f-496c-ae4e-dad56a2cc3c9)
 ![Soil-connection](https://github.com/Maniprabha06/AgroNet/assets/108254371/7289f948-be26-43c9-9d49-0261007dcb80)
+![leaf-dataset](https://github.com/Maniprabha06/AgroNet/assets/108254371/022102e0-ae1d-448c-ab13-9a47d3c84284)
 
 
 OUTPUT:

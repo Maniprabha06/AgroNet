@@ -1,5 +1,6 @@
 # AgroNet
 [AgroNet explanation](https://drive.google.com/file/d/1dBi1Y3gYxio3rHD68U4nYo2FiggUHIS3/view?usp=sharing)
+[AgroNet abstract](https://drive.google.com/file/d/1bk8arh_K9xRyd0CjArVrUiZIG20TiMLH/view?usp=sharing)
 
 MODEL:
 ![Arduino UNO](https://github.com/Maniprabha06/AgroNet/assets/108254371/eab0ce43-c9d5-4a07-9ce4-75db52fe7376)

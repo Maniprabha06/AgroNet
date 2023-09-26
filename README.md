@@ -16,5 +16,7 @@ MODEL:
 OUTPUT:
 ![Arduino-Output](https://github.com/Maniprabha06/AgroNet/assets/108254371/cfdfb2a7-0e1c-442f-8755-5ec11254fd1b)
 ![Thingspeak](https://github.com/Maniprabha06/AgroNet/assets/108254371/905da4aa-d416-42fc-82d2-2e9832a4797d)
+![gauge-temp](https://github.com/Maniprabha06/AgroNet/assets/108254371/417e373f-cf76-4694-8aa2-8680cadbad95)
+
 
 

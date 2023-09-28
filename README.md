@@ -3,7 +3,7 @@
 
 [AgroNet-abstract](https://drive.google.com/file/d/1UEznCMzU259r_RbPSpR59NNt9PYcr9WM/view?usp=sharing)
 
-[AgroNet-writeup](https://drive.google.com/file/d/1B55GgATGQZsfnyPxWRWMg9-mB4vEkbfU/view?usp=sharing)
+[AgroNet-writeup](https://drive.google.com/file/d/1SPpcrXN1EgBC8PC2EYl2oATg73bSr4DP/view?usp=sharing)
 
 ![ideathonflowchart](https://github.com/Maniprabha06/AgroNet/assets/108254371/88681b22-ef4e-4630-a347-8657c728909e)
 
